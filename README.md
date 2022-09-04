@@ -40,6 +40,12 @@ Resourceful software developer with 3+ years of first-hand experience in Python,
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
+---
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lasstaroth&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lasstaroth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Lasstaroth/Lasstaroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
